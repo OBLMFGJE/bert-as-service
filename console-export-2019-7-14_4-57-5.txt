@@ -1,0 +1,109 @@
+04:42:15.776 Successfully compiled asm.js code (total compilation time 1064ms) app.bundle.js
+04:42:16.064 [bugsnag] Loaded! app.bundle.js:62:25154
+04:42:18.989 Content Security Policy: Ignoring ‘x-frame-options’ because of ‘frame-ancestors’ directive.
+04:42:21.769 Request to access cookie or storage on “<URL>” was blocked because it came from a tracker and content blocking is enabled. 4
+04:42:40.432 Storage access automatically granted for tracker “https://api.netlify.com” on “https://app.netlify.com”. start:220:67252
+04:43:47.087 Storage access automatically granted for tracker “https://accounts.google.com” on “https://app.netlify.com”. start
+04:44:40.271 Storage access automatically granted for tracker “https://api.netlify.com” on “https://app.netlify.com”. start:220:67252
+04:52:19.927 XHRGEThttps://app.netlify.com/.netlify/functions/notifications?page=1&per_page=10
+[HTTP/2.0 200 OK 663ms]
+
+04:52:45.431 Navigated to https://app.netlify.com/start/repos/Matthelonianxl%2FEtherCard
+04:52:45.605 GEThttps://app.netlify.com/start/repos/Matthelonianxl%2FEtherCard
+[HTTP/2.0 200 OK 147ms]
+
+04:52:46.487 GEThttps://cdn.netlify.com/css/6c68522556f4c80bdb3d49efbf28e678ea8ecd1d/style/app.css
+[HTTP/2.0 304 Not Modified 32ms]
+
+04:52:46.738 GEThttps://cdn.netlify.com/js/befc45e28c12148657e367a84074c3943e8b8e27/app.bundle.js
+[HTTP/2.0 304 Not Modified 31ms]
+
+04:52:46.862 GEThttps://cdn.segment.com/analytics.js/v1/bHbADSxnRvrpFMYP6pMNP38JC4J7Av75/analytics.min.js
+[HTTP/2.0 304 Not Modified 78ms]
+
+04:52:47.332 GEThttps://assets.customer.io/assets/track.js
+[HTTP/2.0 304 Not Modified 14ms]
+
+04:52:47.518 [bugsnag] Loaded! app.bundle.js:62:25154
+04:52:47.481 TypeError: asm.js type error: Disabled by debugger app.bundle.js
+04:52:47.731 XHRPOSThttps://api.segment.io/v1/p
+[HTTP/2.0 200 OK 373ms]
+
+04:52:47.731 GEThttps://www.netlify.com/storage.html
+[HTTP/2.0 200 OK 448ms]
+
+04:52:48.046 GEThttps://www.googletagmanager.com/gtm.js?id=GTM-WZQ32TR&l=dataLayer
+[HTTP/2.0 200 OK 29ms]
+
+04:52:48.050 XHRPOSThttps://api.segment.io/v1/p
+[HTTP/2.0 200 OK 24ms]
+
+04:52:48.243 Content Security Policy: Ignoring ‘x-frame-options’ because of ‘frame-ancestors’ directive.
+04:52:48.515 XHRGEThttps://api.netlify.com/api/v1/user
+[HTTP/2.0 304 Not Modified 543ms]
+
+04:52:49.562 Request to access cookie or storage on “<URL>” was blocked because it came from a tracker and content blocking is enabled. 4
+04:52:49.563 GEThttps://track.customer.io/events/page.gif?name=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&data%5Bwidth%5D=1197&data%5Bheight%5D=253&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105168571
+[HTTP/2.0 200 OK 31ms]
+
+04:52:49.564 GEThttps://track.customer.io/events/page.gif?name=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&data%5Bpath%5D=%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&data%5Breferrer%5D=&data%5Bsearch%5D=&data%5Btitle%5D=Netlify+App&data%5Burl%5D=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105168573
+[HTTP/2.0 200 OK 27ms]
+
+04:52:49.564 GEThttps://track.customer.io/events/page.gif?name=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&data%5Bpath%5D=%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&data%5Breferrer%5D=&data%5Bsearch%5D=&data%5Btitle%5D=Netlify+App&data%5Burl%5D=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos%2FMatthelonianxl%252FEtherCard&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105168575
+[HTTP/2.0 200 OK 33ms]
+
+04:52:51.740 XHRPOSThttps://api.segment.io/v1/a
+[HTTP/2.0 200 OK 27ms]
+
+04:52:51.741 XHRGEThttps://app.netlify.com/.netlify/functions/notifications?page=1&per_page=10
+[HTTP/2.0 200 OK 338ms]
+
+04:52:51.743 XHRPOSThttps://api.segment.io/v1/p
+[HTTP/2.0 200 OK 29ms]
+
+04:52:51.744 GEThttps://track.customer.io/events/page.gif?name=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos&data%5Bpath%5D=%2Fstart%2Frepos&data%5Breferrer%5D=&data%5Bsearch%5D=&data%5Btitle%5D=Netlify&data%5Burl%5D=https%3A%2F%2Fapp.netlify.com%2Fstart%2Frepos&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105169437
+[HTTP/2.0 200 OK 40ms]
+
+04:52:51.744 XHRPOSThttps://api.segment.io/v1/p
+[HTTP/2.0 200 OK 28ms]
+
+04:52:51.744 GEThttps://track.customer.io/events/page.gif?name=https%3A%2F%2Fapp.netlify.com%2Fstart&data%5Bpath%5D=%2Fstart&data%5Breferrer%5D=&data%5Bsearch%5D=&data%5Btitle%5D=Create+a+new+site+%7C+Netlify&data%5Burl%5D=https%3A%2F%2Fapp.netlify.com%2Fstart&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105169476
+[HTTP/2.0 200 OK 39ms]
+
+04:52:51.774 XHRPOSThttps://api.segment.io/v1/i
+[HTTP/2.0 200 OK 24ms]
+
+04:52:51.774 GEThttps://track.customer.io/events/identify.gif?user%5Bemail%5D=vomcorporation%40gmx.com&user%5Bsite_count%5D=0&user%5Bcreated_at%5D=1561672443&user%5Blast_login%5D=1562917211&user%5Blogin_providers%5D%5B0%5D=github&user%5Blogin_providers%5D%5B1%5D=bitbucket&user%5Bid%5D=5d153afb48ccbf017ff7f019&s=771d21c8-b895-86db-eb25-976cd9fbf709&c=5d153afb48ccbf017ff7f019&site_id=fcddc2fe85aec570d9ce&timestamp=1563105169693
+[HTTP/2.0 200 OK 31ms]
+
+04:52:52.241 GEThttps://avatars1.githubusercontent.com/u/35755639?v=4
+[HTTP/1.1 200 OK 514ms]
+
+04:52:52.887 GEThttps://www.netlify.com/img/global/favicon/apple-touch-icon.png
+[HTTP/2.0 200 OK 73ms]
+
+04:52:52.887 GEThttps://app.netlify.com/favicon-16x16.png
+[HTTP/2.0 200 OK 30ms]
+
+04:52:52.887 GEThttps://www.google-analytics.com/analytics.js
+[HTTP/2.0 200 OK 22ms]
+
+04:52:53.226 GEThttps://www.google-analytics.com/collect?v=1&_v=j77&a=1884709570&t=pageview&_s=1&dl=https%3A%2F%2Fapp.netlify.com%2Fstart&dr=&ul=en-us&de=UTF-8&dt=Create%20a%20new%20site%20%7C%20Netlify&sd=24-bit&sr=1360x768&vp=889x25&je=0&fl=32.0%20r0&_u=QCCAgEAB~&jid=1512959655&gjid=1409069338&cid=1857636663.1563104542&tid=UA-42258181-4&_gid=244702327.1563104542&gtm=2wg6q1WZQ32TR&z=2044243970
+[HTTP/2.0 200 OK 12ms]
+
+04:52:53.227 GEThttps://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j77&tid=UA-42258181-4&cid=1857636663.1563104542&jid=1512959655&gjid=1409069338&_gid=244702327.1563104542&_u=QCCAgEAB~&z=1056915510
+[HTTP/2.0 302 Found 119ms]
+
+04:52:53.249 XHRGEThttps://api.netlify.com/api/v1/accounts
+[HTTP/2.0 304 Not Modified 101ms]
+
+04:52:53.309 GEThttps://www.google.com/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-42258181-4&cid=1857636663.1563104542&jid=1512959655&_v=j77&z=1056915510
+[HTTP/2.0 200 OK 171ms]
+
+04:53:17.223 XHRPOSThttps://api.segment.io/v1/m
+[HTTP/2.0 200 OK 29ms]
+
+04:56:11.280 GEThttps://www.netlify.com/storage.html
+[HTTP/2.0 304 Not Modified 697ms]
+
+04:56:11.646 Content Security Policy: Ignoring ‘x-frame-options’ because of ‘frame-ancestors’ directive.
